@@ -1,1 +1,3 @@
-# Zyren-Hub---Gorilla-Tag
+# Zyren-Hub - Gorilla-Tag
+
+Keyless open source mod menu, not out yet :)
